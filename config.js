@@ -20,7 +20,7 @@ var config = {
         balloons_flying: "气球",
         cake_fadein: "美味的蛋糕",
         light_candle: "点上蜡烛",
-        wish_message: "生日快乐！玲玲",
-        story: "峥峥的一封信",
+        wish_message: "生日快乐",
+        story: "一封信",
     }
 };

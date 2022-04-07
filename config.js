@@ -10,7 +10,7 @@ var config = {
         "壬寅虎年 四月廿四", 
     ],
    imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "可爱的玲玲": "./imgs/ZLL.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -18,8 +18,8 @@ var config = {
         play: "音乐",
         bannar_coming: "装饰",
         balloons_flying: "气球",
-        cake_fadein: "美味的蛋糕",
-        light_candle: "点上蜡烛",
+        cake_fadein: "蛋糕",
+        light_candle: "蜡烛",
         wish_message: "生日快乐",
         story: "一封信",
     }

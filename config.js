@@ -10,15 +10,15 @@ var config = {
         "爱你的峥峥",
         "壬寅虎年 四月廿四",
     ],
-   imgs: {
+   //imgs: {
         //"心爱的小可爱": "./imgs/xiaokeai.png",
-    },
+   // },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "试着点一下？",
-        play: "来点音乐？",
-        bannar_coming: "氛围"，
-        balloons_flying: "好像还少点东西呢！",
+        turn_on: "开始",
+        play: "音乐",
+        bannar_coming: "颜色",
+        balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",

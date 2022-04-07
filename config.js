@@ -4,24 +4,24 @@ var config = {
     texts: [
         "送给",
         "可爱的玲玲",
-        "猜猜我要说什么",
-        "算了还是看吧",
-        "祝你快乐，不只生日",
+        "祝你",
+        "每天都开心"
         "爱你的峥峥",
-        "壬寅虎年 四月廿四",
+        "壬寅虎年", 
+        "四月廿四",
     ],
-   //imgs: {
-        //"心爱的小可爱": "./imgs/xiaokeai.png",
+   imgs: {
+        "心爱的小可爱": "./imgs/xiaokeai.png",
    // },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
+        turn_on: "开灯",
         play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        bannar_coming: "来点装饰",
+        balloons_flying: "气球飞起来",
+        cake_fadein: "美味的蛋糕",
+        light_candle: "点上蜡烛",
+        wish_message: "生日快乐！玲玲",
+        story: "峥峥的一封小信",
     }
 };

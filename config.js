@@ -7,8 +7,7 @@ var config = {
         "祝你",
         "每天都开心",
         "爱你的峥峥",
-        "壬寅虎年", 
-        "四月廿四",
+        "壬寅虎年 四月廿四", 
     ],
    imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
@@ -17,11 +16,11 @@ var config = {
     desc: {
         turn_on: "开灯",
         play: "音乐",
-        bannar_coming: "来点装饰",
-        balloons_flying: "气球飞起来",
+        bannar_coming: "装饰",
+        balloons_flying: "气球",
         cake_fadein: "美味的蛋糕",
         light_candle: "点上蜡烛",
         wish_message: "生日快乐！玲玲",
-        story: "峥峥的一封小信",
+        story: "峥峥的一封信",
     }
 };

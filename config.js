@@ -16,11 +16,11 @@ var config = {
     desc: {
         turn_on: "开灯",
         play: "音乐",
-        bannar_coming: "装饰",
+        bannar_coming: "好像少点东西",
         balloons_flying: "气球",
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
-        wish_message: "生日快乐",
+        wish_message: "还有...",
         story: "一封信",
     }
 };
